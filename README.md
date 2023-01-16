@@ -1,4 +1,4 @@
-# 13 Object-Relational Mapping (ORM): E-Commerce Back End
+# E-Commerce Back End
 
 ## Demonstration
 In this e-commerce project, Sequelize models are used and being synced to MySQL data base as the server is started. By using Insomnia, I can post, put, delete routes for categories, products, or tags. 
